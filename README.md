@@ -2,3 +2,5 @@
 First simple exercise
 
 Do some changes.
+
+autres changements depuis VsCode
